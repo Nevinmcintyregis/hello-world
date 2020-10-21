@@ -1,3 +1,3 @@
 # hello-world
-hello-world repository for GIST604B: Assignment: Create a Github Repo
+This is Chris McIntyre
 Student with the University of Arizona GIST masters program
